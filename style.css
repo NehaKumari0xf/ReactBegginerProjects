@@ -1,0 +1,13 @@
+*{
+    margin: 30px;
+    text-align: center;
+}
+button{
+    border: 1px solid black;
+    color: whitesmoke;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: black;
+}
+
